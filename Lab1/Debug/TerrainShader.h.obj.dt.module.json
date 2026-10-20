@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\TerrainShader.obj",
+            "outputs": [
+                "Debug\\TerrainShader.h.obj.dt.module.json",
+                "Debug\\TerrainShader.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

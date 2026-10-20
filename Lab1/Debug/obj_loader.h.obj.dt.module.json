@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\obj_loader.obj",
+            "outputs": [
+                "Debug\\obj_loader.h.obj.dt.module.json",
+                "Debug\\obj_loader.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
